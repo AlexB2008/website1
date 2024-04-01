@@ -38,3 +38,8 @@ body {
 .btn a {
     color: #f4aa00;
 }
+
+.buybtn {
+    text-decoration: none;
+    color: black;
+}
