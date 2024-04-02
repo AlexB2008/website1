@@ -56,7 +56,7 @@ p {
 .navlink {
     margin-top: 100px;
     margin-right: 52px;
-    color: lightgray;
+    color: lightslategray;
     font-size: 18px;
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
@@ -67,6 +67,7 @@ p {
     color: black;
     border-bottom: 2px solid black;
     transition: 0.5s ease-in;
+    font-weight: 450;
 }
 
 h1 {
